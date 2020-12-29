@@ -1,7 +1,7 @@
 {
-  "name": "vanilla",
+  "name": "BrickBreaker",
   "version": "1.0.0",
-  "description": "JavaScript example starter project",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
